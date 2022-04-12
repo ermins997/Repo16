@@ -4,8 +4,8 @@ let firstName = (firstName) => {
   let lastName = (lastName) => {
     return lastName.toLowerCase();
   };
-  console.log(firstName("Vasilije"));
-  console.log(lastName("Vujovic"));
+  console.log(firstName("Ermin"));
+  console.log(lastName("Sacic"));
   
   exports.firstName = firstName;
   exports.lastName = lastName;
